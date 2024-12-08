@@ -1,15 +1,19 @@
 {
   "name": "viewplay",
   "version": "1.0.0",
-  "description": "a platform to explore world",
+  "description": "a platform to explore world online",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
     "backend"
   ],
   "author": "Zaid Ahamed Baig",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
