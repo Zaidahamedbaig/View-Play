@@ -4,7 +4,6 @@ completely developed website by using  backend
 
 -[Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
 
-
 # ViewPlay
 
 ViewPlay is a platform designed to explore the world online. It is a comprehensive solution featuring both frontend and backend development for a seamless user experience.
